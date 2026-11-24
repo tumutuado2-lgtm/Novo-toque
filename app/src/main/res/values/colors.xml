@@ -1,0 +1,14 @@
+<resources>
+    <color name="nt_white">#FFFFFF</color>
+    <color name="nt_blue">#0866FF</color>
+    <color name="nt_blue_light">#3D8BFF</color>
+    <color name="nt_blue_soft">#E7F0FF</color>
+    <color name="nt_card">#F5F9FF</color>
+    <color name="nt_stroke">#D9E6FA</color>
+    <color name="nt_text">#0F1B33</color>
+    <color name="nt_muted">#64748B</color>
+    <color name="nt_green">#16A34A</color>
+    <color name="nt_amber">#F59E0B</color>
+    <color name="nt_red">#EF4444</color>
+    <color name="nt_gray">#94A3B8</color>
+</resources>

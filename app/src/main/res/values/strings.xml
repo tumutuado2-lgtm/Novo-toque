@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">New Touch</string>
+    <string name="service_description">Permite que o New Touch execute o Arraste Contínuo (toque e arraste) por você. Ele apenas envia gestos de toque e não lê o conteúdo da tela.</string>
+</resources>

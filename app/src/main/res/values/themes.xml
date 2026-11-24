@@ -1,0 +1,19 @@
+<resources>
+    <style name="NtWindowAnim" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+    <style name="Theme.NewTouch" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/nt_blue</item>
+        <item name="colorOnPrimary">@color/nt_white</item>
+        <item name="colorSurface">@color/nt_white</item>
+        <item name="android:windowBackground">@color/nt_white</item>
+        <item name="android:statusBarColor">@color/nt_white</item>
+        <item name="android:navigationBarColor">@color/nt_white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowAnimationStyle">@style/NtWindowAnim</item>
+    </style>
+</resources>
